@@ -1,5 +1,5 @@
 <a href="https://youtube.com/ImranSayedDev" target="_blank">
-<img src="https://codeytek.com/wp-content/uploads/2020/07/stage-image-ConvertImage-1-1.jpg" alt="profile" />
+<img src="https://codeytek.com/wp-content/uploads/2020/07/stage-image.jpg" alt="profile" />
 </a>
 
 ### Hi there, 👋
