@@ -31,6 +31,6 @@ Imran also has passion for photography - [Instagram](https://www.instagram.com/k
 
 [m1]: https://www.meetup.com/Pune-WordPress-Knowledge-Exchange
 [m2]: https://www.meetup.com/PuneJSCamp/
-[t]: https://www.meetup.com/PuneJSCamp/
+[t]: https://twitter.com/imranhsayed
 [y]: https://www.youtube.com/c/ImranSayedDev?sub_confirmation=1
 [g]: https://github.com/imranhsayed
