@@ -27,10 +27,10 @@ Imran also has passion for photography - [Instagram](https://www.instagram.com/k
 
 <small>❯❯ You can follow him on: ↓</strong>
 
-[![Twitter](https://img.shields.io/twitter/follow/imranhsayed?label=%40imranhsayed&style=social)](twitter) [![Github](https://img.shields.io/github/followers/imranhsayed?style=social&label=Follow)](github) [![YouTube](https://img.shields.io/youtube/views/AzsDM1zF3oA?label=Subscribe&style=social)](youtube)
+[![Twitter](https://img.shields.io/twitter/follow/imranhsayed?label=%40imranhsayed&style=social)](t) [![Github](https://img.shields.io/github/followers/imranhsayed?style=social&label=Follow)](g) [![YouTube](https://img.shields.io/youtube/views/AzsDM1zF3oA?label=Subscribe&style=social)](y)
 
 [m1]: https://www.meetup.com/Pune-WordPress-Knowledge-Exchange
 [m2]: https://www.meetup.com/PuneJSCamp/
-[twitter]: https://www.meetup.com/PuneJSCamp/
-[youtube]: https://www.youtube.com/c/ImranSayedDev?sub_confirmation=1
-[github]: https://github.com/imranhsayed
+[t]: https://www.meetup.com/PuneJSCamp/
+[y]: https://www.youtube.com/c/ImranSayedDev?sub_confirmation=1
+[g]: https://github.com/imranhsayed
