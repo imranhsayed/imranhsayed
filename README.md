@@ -19,20 +19,16 @@ Imran organizes Meetups in :
 
 [![PuneJSCamp](https://img.shields.io/badge/2.meetup%20group-PuneJSCamp-blue)](m2)
 
-
-Imran is also the founder of [![Codeytek](https://img.shields.io/badge/-Codeytek%20Academy-blue)](codeytek)
-<p>
 Imran is also the founder of <a href="https://codeytek.com"><img align="center" src="https://img.shields.io/badge/-Codeytek%20Academy-blue"/></a>
 </p>
 
 He loves to write blogs on [Medium](https://medium.com/@imranhsayed)
 Imran also has passion for photography - [Instagram](https://www.instagram.com/kapture_magic/)
 
-<small><strong>❯❯ You can follow him on: ↓</strong></small>
+<small>❯❯ You can follow him on: ↓</strong>
 
 [![Twitter](https://img.shields.io/twitter/follow/imranhsayed?label=%40imranhsayed&style=social)](twitter) [![Github](https://img.shields.io/github/followers/imranhsayed?style=social&label=Follow)](github) [![YouTube](https://img.shields.io/youtube/views/AzsDM1zF3oA?label=Subscribe&style=social)](youtube)
 
-[role]: https://www.youtube.com/c/ImranSayedDev
 [m1]: https://www.meetup.com/Pune-WordPress-Knowledge-Exchange
 [m2]: https://www.meetup.com/PuneJSCamp/
 [twitter]: https://www.meetup.com/PuneJSCamp/
