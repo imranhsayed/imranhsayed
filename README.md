@@ -1,4 +1,4 @@
-<a href="https://youtube.com/ImranSayedDev" target="_blank">
+<a href="https://youtube.com/ImranSayedDev/?sub_confirmation=1" target="_blank">
 <img src="https://codeytek.com/wp-content/uploads/2020/07/stage-image.jpg" alt="profile" />
 </a>
 
