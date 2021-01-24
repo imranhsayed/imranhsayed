@@ -36,3 +36,4 @@ Imran also has passion for photography - [Instagram](https://www.instagram.com/k
 [g]: https://github.com/imranhsayed
 <a href="https://www.youtube.com/c/ImranSayedDev?sub_confirmation=1"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 <a href="https://imranhsayed.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
+
