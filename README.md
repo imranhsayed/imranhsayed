@@ -4,7 +4,7 @@
 
 ### Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-Imran is a <a href="https://www.youtube.com/c/ImranSayedDev"><img align="center" src="https://img.shields.io/badge/Full%20Stack-Engineer-brightgreen"/></a> at <a href="https://rtCamp.com">rtCamp</a>
+Imran is a <a href="https://www.youtube.com/c/ImranSayedDev"><img align="center" src="https://img.shields.io/badge/Full%20Stack-Engineer-brightgreen"/></a>
 He is also a <a href="https://youtu.be/91anxAgQGJw?t=16868">WordCamp Speaker</a>, Organizer, <a href="https://www.meetup.com/Pune-WordPress-Knowledge-Exchange/members/?op=leaders">WordPress Meetup Organizer</a>, and a regular <a href="https://profiles.wordpress.org/gsayed786/">contributor</a> to the WordPress community. He is also a core contributor in WordPress and has a rich experience in Node, React and Laravel.
 
 Apart from this, Imran has a passion for teaching and sharing knowledge which led him to start his [YouTube channel](https://youtube.com/ImranSayedDev) in 2013, where he teaches Programming on WordPress, React, Laravel, Python, Java, C, GraphQL.
